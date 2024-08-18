@@ -37,8 +37,8 @@ To run tests, use:
 # Dependencies
 - Express: ^4.18.2
 - MongoDB: ^6.0.0
-- Axios: ^1.7.4
-- Moment: ^2.30.1
+- Cors: ^2.8.5
+- Dotenv: ^16.4.5
 # Development Guidelines
 - Code Style: Follow the ESLint and Prettier configurations.
 - API Design: Use RESTful conventions for API endpoints.
